@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYxpfrjYMOXEZNml84Jfmutz8cl/loKhm/aAmkmsw4Bs8JDNxKwhw9177+oc50g0v/K59d3qQ+JHX+MVCS3yxg==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECT\\DemoJWT-ASP\\DemoJWT-ASP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\VINH\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VINH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\VINH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\VINH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\VINH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
